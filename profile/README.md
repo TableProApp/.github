@@ -40,12 +40,4 @@ TablePro is a lightweight macOS database client built with Swift and AppKit. No 
 brew install --cask tablepro
 ```
 
-Or download the DMG from [GitHub Releases](https://github.com/TableProApp/TablePro/releases/latest). Requires macOS 14.0+, Apple Silicon or Intel.
-
-## Repositories
-
-| Repo | Description |
-|------|-------------|
-| [TablePro](https://github.com/TableProApp/TablePro) | Main app - database client |
-| [homebrew-tap](https://github.com/TableProApp/homebrew-tap) | Homebrew cask formula |
-| [docs](https://github.com/TableProApp/docs) | Documentation site (docs.tablepro.app) |
+Or download from [tablepro.app/download](https://tablepro.app/download). Requires macOS 14.0+, Apple Silicon or Intel.
