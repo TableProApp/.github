@@ -5,7 +5,8 @@
 <h1 align="center">TablePro</h1>
 
 <p align="center">
-  A fast, native macOS database client. Open source.
+  Native database client for Mac and iPhone. MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more.<br>
+  Free and open-source.
 </p>
 
 <p align="center">
@@ -21,18 +22,22 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TableProApp/TablePro/main/.github/assets/hero-dark.png" width="720" alt="TablePro Screenshot">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TableProApp/TablePro/main/.github/assets/app-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TableProApp/TablePro/main/.github/assets/app-light.png">
+    <img alt="TablePro macOS database client with SQL editor and data grid" src="https://raw.githubusercontent.com/TableProApp/TablePro/main/.github/assets/app-light.png" width="800">
+  </picture>
 </p>
 
 ## About
 
-TablePro is a lightweight macOS database client built with Swift and AppKit. No Electron, no web views, no Java runtimes. It connects to 14+ databases through a plugin system, with a SQL editor powered by tree-sitter and an AI assistant that helps write and optimize queries.
+TablePro is a native macOS database client built with SwiftUI and AppKit. No Electron, no web views, no Java runtimes. It connects to 18+ databases through a plugin system, with a SQL editor powered by tree-sitter and an AI assistant that helps write and optimize queries.
 
 ## Databases
 
-**Built-in**: MySQL, MariaDB, PostgreSQL, Redshift, SQLite, ClickHouse, SQL Server, Redis, DynamoDB
+**Built-in**: MySQL, MariaDB, PostgreSQL, Redshift, SQLite, ClickHouse, SQL Server, Redis
 
-**Plugins**: MongoDB, Oracle, DuckDB, Cassandra, Etcd, Cloudflare D1
+**Plugins**: MongoDB, Oracle, DuckDB, Cassandra, Etcd, Cloudflare D1, DynamoDB, BigQuery, libSQL/Turso
 
 ## Install
 
