@@ -45,4 +45,4 @@ TablePro is a native macOS database client built with SwiftUI and AppKit. No Ele
 brew install --cask tablepro
 ```
 
-Or download from [tablepro.app/download](https://tablepro.app/download). Requires macOS 14.0+, Apple Silicon or Intel.
+Or download from [tablepro.app/download](https://tablepro.app/download). Requires macOS 13 or later, Apple Silicon or Intel.
