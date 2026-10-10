@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bug or feature request for the app or a plugin
+    url: https://github.com/TableProApp/TablePro/issues/new/choose
+    about: The Mac app, the iPhone and iPad app and every plugin are built in the TablePro repository.
+  - name: Question
+    url: https://github.com/TableProApp/TablePro/discussions
+    about: Ask and answer questions in GitHub Discussions.
+  - name: Security vulnerability
+    url: https://github.com/TableProApp/.github/blob/main/SECURITY.md
+    about: Report it privately. Never in a public issue.
