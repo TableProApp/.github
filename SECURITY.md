@@ -4,7 +4,7 @@ This policy covers every TableProApp repository that has no SECURITY.md of its o
 
 ## Report a vulnerability
 
-Email **hello@tablepro.app**, or use **Report a vulnerability** on the repository's Security tab when it is there. Write in English or Vietnamese.
+Email **hello@tablepro.app**, or use **Report a vulnerability** on the repository's Security tab. Write in English or Vietnamese.
 
 Do not open a public issue, discussion or pull request for a vulnerability.
 
