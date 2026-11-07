@@ -4,14 +4,14 @@ This policy covers every TableProApp repository that has no SECURITY.md of its o
 
 ## Report a vulnerability
 
-Email **hello@tablepro.app**, or use **Report a vulnerability** on the repository's Security tab. Write in English or Vietnamese.
+Email **hello@tablepro.app**, or use **Report a vulnerability** on the repository's Security tab if available. Write in English or Vietnamese.
 
 Do not open a public issue, discussion or pull request for a vulnerability.
 
 Include:
 
-- What is affected and its version: the Mac app, the iPhone and iPad app, a plugin, tablepro.app or the integrations directory.
-- The macOS or iOS version, and the database type when a driver is involved.
+- The affected app, plugin, library or site, and its version or commit. Include whether it is a stable release, a Linux beta or a development build.
+- The platform and OS version: macOS, iOS/iPadOS, Linux or a Windows development build. On Linux, include the distribution and package format. Include the database type when a driver is involved.
 - Steps to reproduce, or a proof of concept.
 - What an attacker gains: the data or access exposed.
 
