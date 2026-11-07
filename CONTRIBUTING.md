@@ -6,12 +6,15 @@ This is the default guide for every TableProApp repository that has no CONTRIBUT
 
 | Repository | What it holds | Start here |
 |---|---|---|
-| [TablePro](https://github.com/TableProApp/TablePro) | The Mac app, the iPhone and iPad app, every plugin's source, the docs | [CONTRIBUTING.md](https://github.com/TableProApp/TablePro/blob/main/CONTRIBUTING.md) |
+| [TablePro](https://github.com/TableProApp/TablePro) | Native apps for Apple and Linux, Windows development, plugins and the shared core | [CONTRIBUTING.md](https://github.com/TableProApp/TablePro/blob/main/CONTRIBUTING.md) |
+| [docs](https://github.com/TableProApp/docs) | docs.tablepro.app | [README](https://github.com/TableProApp/docs#readme) |
 | [web](https://github.com/TableProApp/web) | tablepro.app | [CONTRIBUTING.md](https://github.com/TableProApp/web/blob/main/CONTRIBUTING.md) |
-| [integrations](https://github.com/TableProApp/integrations) | The registry of integrations that work with TablePro | Its README |
-| [plugins](https://github.com/TableProApp/plugins) | The plugin registry manifest, written by CI | Change the plugin in the TablePro repository |
+| [integrations](https://github.com/TableProApp/integrations) | The registry of integrations that work with TablePro | [CONTRIBUTING.md](https://github.com/TableProApp/integrations/blob/main/CONTRIBUTING.md) |
+| [.github](https://github.com/TableProApp/.github) | The organization profile and default community guides | This guide |
 
-`oracle-nio` and `rust-dameng` are forks. Send fixes to their upstream projects.
+[oracle-nio](https://github.com/TableProApp/oracle-nio) and [rust-dameng](https://github.com/TableProApp/rust-dameng) are forks. Send fixes to their upstream projects.
+
+For questions, use [GitHub Discussions](https://github.com/TableProApp/TablePro/discussions) or [Discord](https://discord.gg/hCNmUUbnD4).
 
 ## Before you open a pull request
 
