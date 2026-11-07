@@ -5,7 +5,7 @@
 <h1 align="center">TablePro</h1>
 
 <p align="center">
-  Open-source database clients with native apps for macOS, Linux, iPhone and iPad.
+  Free, open-source database clients with native apps for macOS, Linux, iPhone and iPad.
 </p>
 
 <p align="center">
